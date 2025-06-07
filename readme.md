@@ -1,4 +1,4 @@
-# Qlik SaaS Portal
+# ✨Qlik SaaS Portal
 
 This project is for personal development. It intends to manipulate mashup apps on Qlik Sense Saas. 
 
